@@ -110,3 +110,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+
+## folders
+node_modules
+.idea
